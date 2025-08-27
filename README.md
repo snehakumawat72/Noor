@@ -1,16 +1,10 @@
 
-https://noorwebsite.vercel.app/
-
-
-
 # 💎 Noor – Online Jewelry Shop  
 
 Noor is a **modern, responsive online jewelry store** built with **HTML, CSS, and JavaScript**.  
 It allows users to **browse, filter, and view product details**, manage their **shopping cart**, and experience a seamless minimal checkout flow.  
 
 👉 **Live Demo:** https://noorwebsite.vercel.app/
-
-***
 
 ## ✨ Features  
 
@@ -21,8 +15,6 @@ It allows users to **browse, filter, and view product details**, manage their **
 - **Pop-up Interactions**: Smooth pop-up display for cart and product info.  
 - **Authentication UI**: Login/signup page UI included.  
 - **Responsive Design**: Works well across desktop, tablet, and mobile.  
-
-***
 
 ## 🛠️ Tech Stack  
 
